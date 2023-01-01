@@ -11,8 +11,8 @@ This project is a 2d game created with Pygame. The goal of the game is to gather
 ## Table of Contents
 
 - [General Rules](#general-rules)
-- [Rule sets](#rule-sets)
-- [Difficulty levels](#difficulty-levels)
+- [Rule Sets](#rule-sets)
+- [Difficulty Levels](#difficulty-levels)
 - [Controls](#controls)
 - [Example Game](#example-game-with-bouncebrutal)
 
@@ -47,5 +47,7 @@ There are four difficulty levels: easy, medium, hard, and brutal. The difficulty
 'F2': start the game (after choosing rule set and difficulty level)
 
 ## Example Game (with Bounce+Brutal)
+
+(This takes a while to load, be patient or go to [here](https://github.com/juhalo/monster-game/blob/main/img/output11.gif))
 
 ![gif](https://github.com/juhalo/monster-game/blob/main/img/output11.gif)
