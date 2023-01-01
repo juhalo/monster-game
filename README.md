@@ -19,3 +19,7 @@ There are currently three different rule sets: bounce, remove, and replace. With
 ### Difficulty Levels
 
 There are four difficulty levels: easy, medium, hard, and brutal. The difficulty level affects the speed at which monsters spawn and move. It should be noted that these also increase as time passes and therefore difficulty levels can be seen as a way of determining the starting position, i.e. you will reach the same difficulty eventually even when playing with easy difficulty as you would when starting with brutal.
+
+## Example game (with Bounce+Brutal)
+
+![Gif of game](./img/output8.gif)

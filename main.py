@@ -23,7 +23,7 @@ class Cashmoney:
     def load_pics(self):
         self.pics = []
         for name in ['robot', 'coin', 'monster']:
-            self.pics.append(pygame.image.load(name + '.png'))
+            self.pics.append(pygame.image.load("./img/" + name + '.png'))
 
     def set_ruleset(self):
         # This can take values 0,1,2,3 and determines which ruleset is used for the game, 0 means nothing has been set
