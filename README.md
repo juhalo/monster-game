@@ -22,4 +22,4 @@ There are four difficulty levels: easy, medium, hard, and brutal. The difficulty
 
 ## Example game (with Bounce+Brutal)
 
-![gif](https://github.com/juhalo/monster-game/blob/main/img/output9.gif)
+![gif](https://github.com/juhalo/monster-game/blob/main/img/output11.gif)
